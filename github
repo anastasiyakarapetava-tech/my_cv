@@ -1,0 +1,4 @@
+git init
+.DS_Store
+git add .
+git commit -m "Initial commit"
